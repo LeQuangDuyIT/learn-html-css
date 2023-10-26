@@ -1,0 +1,61 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-style: italic;
+  font-size: 40px;
+}
+
+#web-name-01 {
+  border: 1px dashed blue;
+  background-color: green;
+}
+
+.web-name {
+  font-style: italic;
+  font-size: 64px;
+  color: purple;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+    Verdana, sans-serif;
+  font-weight: bold;
+}
+
+/* button {
+  background-color: bisque;
+  border-radius: 8px;
+  width: 120px;
+  height: 28px;
+} */
+
+img {
+  border-radius: 50%;
+}
+
+ul li:first-child {
+  color: blue;
+}
+
+.form-button .basic-button {
+  width: 200px;
+  height: 90px;
+  border-radius: 40px;
+  color: white;
+
+  /* border-color: orange;
+  border-width: 8px;
+  border-style: dotted; */
+
+  border: 8px dotted orange;
+}
+
+.form-button .cancel-button {
+  background-color: red;
+}
+
+.form-button .submit-button {
+  background-color: green;
+}
+
+.user-button .basic-button {
+  width: 100px;
+  height: 48px;
+}
